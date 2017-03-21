@@ -8,4 +8,4 @@ The tech it uses includes:
 * CSS
 * Javascript
 
-![Power Puff Canvas Game](http://imgur.com/DhiWa8J)
+![Power Puff Canvas Game](http://imgur.com/DhiWa8J.png)
